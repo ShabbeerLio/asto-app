@@ -1,0 +1,23 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+th,
+td {
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid #ddd;
+  }
+  
+th:last-child,
+td:last-child {
+      border-left: 1px solid #ddd;
+  }
+  
+th {
+    background-color: rgba(17, 17, 226, 0.562);
+    color: white;
+  }

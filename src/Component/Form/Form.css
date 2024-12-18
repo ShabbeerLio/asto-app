@@ -1,0 +1,65 @@
+
+.login {
+    width: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+  .hader {
+    text-align: center;
+    font-size: 22px;
+    font-weight: 700;
+  }
+  .hader p {
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    color: #706b6b;
+  }
+  form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 20px;
+  }
+
+  .name-box input{
+    width: 96%;
+  }
+
+  .box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  form input {
+    width: 70%;
+    height: 40px;
+    outline: none;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 8px;
+  }
+  form button {
+    background-color: rgba(17, 17, 226, 0.562);
+    color: #ffffff;
+    font-size: 17px;
+    height: 60px;
+    outline: none;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 8px;
+  }
+  
+  .gender-select {
+    width: 48%;
+    height: 60px;
+    outline: none;
+    border: 1px solid #cccccc;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 8px;
+  }
+  
+  
